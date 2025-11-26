@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+
+# Block access to private files
+Disallow: /analytics.js
+Disallow: /.vs/
+
+# Sitemap location
+Sitemap: https://taratil.frb.io/Web/derekh/sitemap.xml
+
+# Crawl delay for politeness
+Crawl-delay: 1
