@@ -12,7 +12,7 @@
     "analytics": {
       "enabled": true,
       "googleAnalyticsId": "G-PBP3G0KNMS",
-      "allowedDomains": ["localhost", "taratil.frb.io", "www.taratil.frb.io"]
+      "allowedDomains": ["localhost", "akbattery.co.il", "www.akbattery.co.il"]
     },
     "meta": [
       {"name": "google-site-verification", "content": "2VWf2H4eE2wIq6AK-6FFmOwPiqMEhGMvdeBjE1h_okM"},
